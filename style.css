@@ -1,0 +1,12 @@
+body{
+    background-color: rgba(131, 131, 131, 0.493);
+    color: rgb(146, 235, 190);
+}
+.estrutura{
+    text-align: center;
+    margin: 10px;
+    
+}
+#conteudo{
+    background-color: darkcyan;
+}
